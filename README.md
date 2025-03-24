@@ -1,4 +1,4 @@
-# 🛒 ShopEase - E-commerce Homepage
+#  ShopEase - E-commerce Homepage
 
 A modern and responsive e-commerce homepage built using **HTML** and **CSS**. This project features a clean and attractive design that replicates the landing page of an online store.
 
